@@ -5,8 +5,7 @@ import os
 
 # Dicionario
 restaurantes = [{'nome':'Pizza Hut', 'categoria':'Pizzas', 'ativo':True}, 
-                {'nome':'McDonalds', 'categoria':'Fast Food', 'ativo':False}, 
-                {'nome':'Subway', 'categoria':'Sanduíches', 'ativo':True}]
+                {'nome':'McDonalds', 'categoria':'Fast Food', 'ativo':False}]
 
 def exibir_nome_programa():
     print("""
